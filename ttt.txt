@@ -6,3 +6,10 @@ drwxr-xr-x 1 YUHAN 197121     0 Apr  9 13:24 .git/
 -rw-r--r-- 1 YUHAN 197121 35823 Apr  9 13:24 LICENSE
 -rw-r--r-- 1 YUHAN 197121   199 Apr  9 13:24 README.md
 -rw-r--r-- 1 YUHAN 197121     0 Apr  9 13:25 ttt.txt
+=======
+total 0
+drwxr-xr-x 1 YUHAN 197121 0 Apr  9 13:25 ./
+drwxr-xr-x 1 YUHAN 197121 0 Apr  9 13:24 ../
+drwxr-xr-x 1 YUHAN 197121 0 Apr  9 13:24 test/
+-rw-r--r-- 1 YUHAN 197121 0 Apr  9 13:25 ttt.txt
+>>>>>>> bf8c660 (내 작업 내용 저장)
